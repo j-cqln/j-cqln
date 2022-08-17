@@ -4,4 +4,5 @@ Hi there, I'm Jacqueline! Nice to meet you — come visit me [here](j-cqln.githu
 <br>
 
 🌱 Computer science student
+<br>
 🔭 Bioinformatics research
