@@ -1,3 +1,3 @@
 ### hello, world 👋
 
-[visit me!](https://j-cqln.github.io)
+[Visit me!](https://j-cqln.github.io)
